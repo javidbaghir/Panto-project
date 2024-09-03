@@ -1,0 +1,31 @@
+:root {
+
+    /* Colors */
+
+    --colorWhite: #fff;
+    --colorBlack: #000;
+    --colorTundora: #424242;
+    --colorGoldenBell: #E58411;
+    --colorAbbey: #484A4C;
+    --colorCodGray: #1E1E1E;
+    --colorAlabaster: #F7F7F7;
+    --colorGallery: #eeeeee;
+    --colorBlueZodiac: #0D1B39;
+    --colorGray: #8D8D8D;
+    --colorDairyCream: #FCE0C5;
+    --colorEbonyClay: #1E2833;
+    
+
+    /* Fonts */
+
+    --gilroy-bold: 'Gilroy-Bold', sans-serif;
+    --gilroy-heavy: 'Gilroy-Heavy', sans-serif;
+    --gilroy-light: 'Gilroy-Light', sans-serif;
+    --gilroy-medium: 'Gilroy-Medium', sans-serif;
+    --gilroy-regular: 'Gilroy-Regular', sans-serif;
+    --gilroy-semibold: 'Gilroy-SemiBold';
+    --fontInter: "Inter", sans-serif;
+
+
+    
+}

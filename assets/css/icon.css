@@ -1,0 +1,104 @@
+.icon {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-15 {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-20 {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-45 {
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-80 {
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.icon-90 {
+    width: 90px;
+    height: 90px;
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.icon-arrow-right {
+    background-image: url(/assets/img/icon-arrow-right.svg);
+}
+
+.icon-arrow-down {
+    background-image: url(/assets/img/icon-arrow-down.svg);
+}
+
+.icon-arrow-left {
+    background-image: url(/assets/img/icon-arrow-left.svg);
+}
+
+.icon-arrow-right-lg {
+    background-image: url(/assets/img/icon-arrow-right-long.svg);
+}
+
+.icon-location {
+    background-image: url(/assets/img/location-icon.svg);
+}
+
+.icon-search {
+    background-image: url(/assets/img/icon-search.svg);
+}
+
+.icon-star {
+    background-image: url(/assets/img/icon-star.svg);
+}
+
+.icon-star-light {
+    background-image: url(/assets/img/icon-star-light.svg);
+}
+
+.icon-plus {
+    background-image: url(/assets/img/icon-plus.svg);
+}
+
+.icon-facebook {
+    background-image: url(/assets/img/icon-fb.svg);
+}
+
+.icon-instagram {
+    background-image: url(/assets/img/icon-instagram.svg);
+}
+
+.icon-twitter {
+    background-image: url(/assets/img/icon-twitter.svg);
+}
